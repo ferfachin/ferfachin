@@ -10,7 +10,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ferfachin&bg_color=0d1117&color=83c5be&title_color=83c5be&line=006d77&point=c9d1d9&area=true&area_color=006d77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=footer"/>
 
 ## Linguagens que tenho experiências :bulb: 
 
@@ -32,3 +31,5 @@
   <a href = "mailto:fernandofachinrm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-fachin-82627a109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=footer"/>
