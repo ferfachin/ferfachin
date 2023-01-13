@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferfachin&show_icons=true&count_private=true&hide_border=true&title_color=83c5be&icon_color=006d77&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Fachin github stats" /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ferfachin=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="49%" height="195px src="https://github-readme-stats.vercel.app/api/top-langs?ferfachin=zluvsand&layout=compact"/>
 </div>
 
 
