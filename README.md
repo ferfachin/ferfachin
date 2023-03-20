@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83c5be&size=35&center=true&vCenter=true&width=1000&lines=Oie,+tudo+bem?;Meu+Nome+é+Fernando+e+Tenho+22+Anos;Sou+desenvolvedor+front+end+junior+;;Seja+Muito+Bem-Vindo+ou+Bem-Vinda!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83c5be&size=35&center=true&vCenter=true&width=1000&lines=Oie,+tudo+bem?;Meu+Nome+é+Fernando+e+Tenho+23+Anos;Sou+desenvolvedor+front+end+junior+;;Seja+Muito+Bem-Vindo+ou+Bem-Vinda!)](https://git.io/typing-svg)
 
 <div align="center">  
 <!--
@@ -19,7 +19,7 @@
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
 
