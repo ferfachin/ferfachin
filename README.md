@@ -7,8 +7,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfachin&layout=compact&hide_border=true&title_color=83c5be&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ferfachin&bg_color=0d1117&color=83c5be&title_color=83c5be&line=006d77&point=c9d1d9&area=true&area_color=006d77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ferfachin&bg_color=0d1117&color=83c5be&title_color=83c5be&line=006d77&point=c9d1d9&area=true&area_color=006d77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 ## Linguagens que tenho experiências :bulb: 
