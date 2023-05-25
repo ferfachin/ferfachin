@@ -11,7 +11,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ferfachin&bg_color=0d1117&color=83c5be&title_color=83c5be&line=006d77&point=c9d1d9&area=true&area_color=006d77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
-## Linguagens que tenho experiências :bulb: 
+## Linguagens que tenho experiências e frameworks :bulb: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
