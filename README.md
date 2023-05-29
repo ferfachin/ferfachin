@@ -7,10 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfachin&layout=compact&hide_border=true&title_color=83c5be&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## O que estou fazendo
-
-Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end e expandir meu conhecimento em diversas áreas relacionadas ao desenvolvimento web. Estou constantemente buscando desafios e oportunidades para aprender e crescer profissionalmente.
-
 ## Competências
 
 Aqui estão as linguagens e frameworks com os quais tenho experiência:
@@ -22,6 +18,10 @@ Aqui estão as linguagens e frameworks com os quais tenho experiência:
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 </div>
+
+## O que estou fazendo
+
+Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end e expandir meu conhecimento em diversas áreas relacionadas ao desenvolvimento web. Estou constantemente buscando desafios e oportunidades para aprender e crescer profissionalmente.
 
 ## Contato
 
