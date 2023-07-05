@@ -7,6 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfachin&layout=compact&hide_border=true&title_color=83c5be&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+## O que estou desenvolvendo no momento
+<div>
+  <p>Site desenvolvido por mim, da empresa <a href="https://www.linkedin.com/in/rde-web3-992048279/">Rde Web3</a></p>
+  <a href="https://rdeweb3.io/" target="_blank">RDE WEB 3</a>
+</div>
+
 ## Competências
 
 Aqui estão as linguagens e frameworks com os quais tenho experiência:
