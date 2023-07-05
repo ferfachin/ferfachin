@@ -9,8 +9,8 @@
 
 ## O que estou desenvolvendo no momento
 <div>
-  <p>Site desenvolvido por mim, da empresa <a href="https://www.linkedin.com/in/rde-web3-992048279/">Rde Web3</a></p>
-  <a href="https://rdeweb3.io/" target="_blank">RDE WEB 3</a>
+  <a href="https://rdeweb3.io/" target="_blank">Link para o projeto</a>
+  <p>Empresa que Trabalho e desenvolvo o site:<a href="https://www.linkedin.com/in/rde-web3-992048279/">Rde Web3 linkedin</a></p>
 </div>
 
 ## Competências
