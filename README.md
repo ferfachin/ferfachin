@@ -17,7 +17,7 @@
 
 Aqui estão as linguagens e frameworks com os quais tenho experiência:
 
-<div align="center" style="background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);">
+<div align="left" style="background-color: #fff; border-radius: 10px; padding: 20px; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
