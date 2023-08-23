@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=header"/>
+img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+tudo+bem%3F%3BMeu+nome+%C3%A9+Fernando+e+tenho+23+anos%3BSou+desenvolvedor+front-end%3B%3BSeja+muito+bem-vindo+ou+bem-vinda!)](https://git.io/typing-svg)
 
@@ -8,10 +8,10 @@
 </div>
 
 ## O que estou desenvolvendo no momento
-<div>
-  <a href="https://rdeweb3.io/" target="_blank">Link para o projeto</a>
-  <p>Empresa que Trabalho e desenvolvo o site:<a href="https://www.linkedin.com/in/rde-web3-992048279/">Rde Web3 linkedin</a></p>
-</div>
+
+Acompanhe o projeto que estou trabalhando atualmente:
+- [Projeto RDE Web3](https://rdeweb3.io/)
+- Desenvolvimento e aprimoramento do site na empresa [RDE Web3](https://www.linkedin.com/in/rde-web3-992048279/)
 
 ## Competências
 
@@ -29,10 +29,9 @@ Aqui estão as linguagens e frameworks com os quais tenho experiência:
   <img align="center" alt="AWS" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
 </div>
 
-
 ## O que estou fazendo
 
-Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end e expandir meu conhecimento em diversas áreas relacionadas ao desenvolvimento web. Estou constantemente buscando desafios e oportunidades para aprender e crescer profissionalmente.
+Estou dedicado a aprimorar minhas habilidades no desenvolvimento front-end e também estou adquirindo experiência valiosa no âmbito do backend e com o uso de containers. Meu objetivo é expandir meu conhecimento em várias áreas do desenvolvimento web, abraçando novos desafios e oportunidades para aprender e evoluir constantemente em minha jornada profissional. Estou animado para explorar novas tecnologias e conceitos enquanto trabalho em projetos significativos que contribuam para meu crescimento como desenvolvedor.
 
 ## Contato
 
@@ -40,8 +39,8 @@ Fique à vontade para entrar em contato comigo nas seguintes plataformas:
 
 <div> 
   <a href="https://instagram.com/fernandofachin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernandofachinrm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:fernandofachinrm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ferfachin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=footer"/>
