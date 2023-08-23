@@ -1,4 +1,4 @@
-img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+tudo+bem%3F%3BMeu+nome+%C3%A9+Fernando+e+tenho+23+anos%3BSou+desenvolvedor+front-end%3B%3BSeja+muito+bem-vindo+ou+bem-vinda!)](https://git.io/typing-svg)
 
