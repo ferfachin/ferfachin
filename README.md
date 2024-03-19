@@ -10,8 +10,7 @@
 ## O que estou desenvolvendo no momento
 
 Acompanhe o projeto que estou trabalhando atualmente:
-- [Projeto RDE Web3](https://rdeweb3.io/)
-- Desenvolvimento e aprimoramento do site na empresa [RDE Web3](https://www.linkedin.com/in/rde-web3-992048279/)
+- [Projeto Pessoal]([Previdence Api Nest](https://github.com/ferfachin/previdence-api))
 
 ## Competências
 
@@ -20,18 +19,15 @@ Aqui estão as linguagens, frameworks e tecnologias com as quais tenho experiên
 <div align="left" style="background-color: #fff; border-radius: 10px; padding: 20px; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
+  <img align="center" alt="Nest" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574">
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="VUE" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png">
   <img align="center" alt="Solidity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
   <img align="center" alt="Docker" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
-  <!--<img align="center" alt="Ruby" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png">-->
+  <img align="center" alt="Ruby" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png">
   <img align="center" alt="AWS" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
 </div>
-
-## O que estou fazendo
-
-Estou dedicado a aprimorar minhas habilidades no desenvolvimento front-end e também estou adquirindo experiência valiosa no âmbito do backend e com o uso de containers. Meu objetivo é expandir meu conhecimento em várias áreas do desenvolvimento web, abraçando novos desafios e oportunidades para aprender e evoluir constantemente em minha jornada profissional. Estou animado para explorar novas tecnologias e conceitos enquanto trabalho em projetos significativos que contribuam para meu crescimento como desenvolvedor.
 
 ## Contato
 
