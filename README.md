@@ -10,7 +10,7 @@
 ## O que estou desenvolvendo no momento
 
 Acompanhe o projeto que estou trabalhando atualmente:
-- [Projeto Pessoal]([Previdence Api Nest](https://github.com/ferfachin/previdence-api))
+- [Projeto Pessoal]- (Previdence Api Nest(https://github.com/ferfachin/previdence-api))
 
 ## Competências
 
